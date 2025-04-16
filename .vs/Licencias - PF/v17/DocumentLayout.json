@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\controllers\\licenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:controllers\\licenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\services\\licenciavalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:services\\licenciavalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\services\\licenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:services\\licenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\services\\ilicenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:services\\ilicenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\model\\licencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:model\\licencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\services\\automapperporfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:services\\automapperporfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\licenciacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:licenciacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\dto\\licenciacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:dto\\licenciacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo\\downloads\\proyectofinal-main\\licencias - pf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:licencias - pf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Services\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "Services\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:42:48.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LicenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Controllers\\LicenciaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LicenciaController.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Controllers\\LicenciaController.cs",
+              "RelativeToolTip": "Controllers\\LicenciaController.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAowBIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:06:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LicenciaValidacion.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\LicenciaValidacion.cs",
+              "RelativeDocumentMoniker": "Services\\LicenciaValidacion.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\LicenciaValidacion.cs",
+              "RelativeToolTip": "Services\\LicenciaValidacion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:17:34.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Services\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\IUnitOfWork.cs",
+              "RelativeToolTip": "Services\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:04:38.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILicenciaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\ILicenciaRepository.cs",
+              "RelativeDocumentMoniker": "Services\\ILicenciaRepository.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\ILicenciaRepository.cs",
+              "RelativeToolTip": "Services\\ILicenciaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:02:10.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LicenciaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\LicenciaRepository.cs",
+              "RelativeDocumentMoniker": "Services\\LicenciaRepository.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\LicenciaRepository.cs",
+              "RelativeToolTip": "Services\\LicenciaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:03:19.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Licencia.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Model\\Licencia.cs",
+              "RelativeDocumentMoniker": "Model\\Licencia.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Model\\Licencia.cs",
+              "RelativeToolTip": "Model\\Licencia.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:59:41.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoMapperPorfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\AutoMapperPorfile.cs",
+              "RelativeDocumentMoniker": "Services\\AutoMapperPorfile.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Services\\AutoMapperPorfile.cs",
+              "RelativeToolTip": "Services\\AutoMapperPorfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:10:27.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:11:03.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T14:19:13.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LicenciaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\DTO\\LicenciaCreateDto.cs",
+              "RelativeDocumentMoniker": "DTO\\LicenciaCreateDto.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\DTO\\LicenciaCreateDto.cs",
+              "RelativeToolTip": "DTO\\LicenciaCreateDto.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:41:11.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Licencias - PF.csproj",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Licencias - PF.csproj",
+              "RelativeDocumentMoniker": "Licencias - PF.csproj",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\Licencias - PF.csproj",
+              "RelativeToolTip": "Licencias - PF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T11:39:28.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LicenciaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\LicenciaContext.cs",
+              "RelativeDocumentMoniker": "LicenciaContext.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Downloads\\ProyectoFinal-main\\LicenciaContext.cs",
+              "RelativeToolTip": "LicenciaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:52:48.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
